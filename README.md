@@ -20,7 +20,7 @@ The dataset contains records of students with the following features:
 | Hours_Sleep     | Average sleep hours per night (integer)    |
 | Pass            | 1 = Passed, 0 = Failed                     |
 
-📁 Located at: `data/student_data_large_int.csv`
+📁 Located at: `student_data_large_int.csv`
 
 ---
 
