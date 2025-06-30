@@ -6,7 +6,7 @@ from sklearn.metrics import accuracy_score, classification_report, confusion_mat
 from imblearn.over_sampling import SMOTE
 
 # Load dataset
-df = pd.read_csv("student_data_large_int.csv")
+df = pd.read_csv("student_data_.csv")
 X = df[["Hours_Studied", "Attendance", "Hours_Sleep"]]
 y = df["Pass"]
 
